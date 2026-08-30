@@ -1,0 +1,22 @@
+[
+  {
+    "year": 2022,
+    "subject": "Matemática",
+    "area": "Matemática",
+    "text": "Um agricultor possui um terreno retangular com 20 m de largura e 30 m de comprimento. Ele deseja cercá-lo com 3 voltas de arame. Quantos metros de arame serão necessários?",
+    "image_url": "/images/q1.png",
+    "options": ["100 m", "150 m", "200 m", "250 m", "300 m"],
+    "correct_answer": "300 m",
+    "difficulty": 2
+  },
+  {
+    "year": 2021,
+    "subject": "Biologia",
+    "area": "Ciências da Natureza",
+    "text": "A fotossíntese é um processo fundamental para a vida na Terra. Qual organela é responsável por esse processo nas células vegetais?",
+    "image_url": "/images/q2.png",
+    "options": ["Mitocôndria", "Cloroplasto", "Retículo endoplasmático", "Complexo de Golgi", "Lisossomo"],
+    "correct_answer": "Cloroplasto",
+    "difficulty": 1
+  }
+]
